@@ -9,6 +9,8 @@ Para el demodulador se crean dos prodoctos internos de funciones, uno para cada 
 Seguidamente, utilizando la función bits_a_rgb se cuenta la cantidad de bits, se reconstruyen los canales RGB y a su vez se decodifican.
 
 Por último se definen los parámetros de frecuencia de la portadora, muestras por periodo de la portadora y relación señal-a-ruido del canal y se grafican las señal transmitida y la recuperada.
+
+
 ***Parte 4.2***
 
 Para el procedimiento de pruebas de Estacionaridad y ergodicidad de la señal modulada primero se definen los tiempos, luego de esto se realiza el proceso de inicialización aleatorio X(t).Se aplica cada valor de amplitud entre (-1, 1) para la señal, seguidamente se saca el promedio de las N realizaciones por instante.
