@@ -1,7 +1,7 @@
 ### Documentación
 ***Parte 4-1***
 
-Primeramnete se realiza una modulación 8-PSK, para este apartado se utiliza una simulación del sistema de comunicaciones como en la sección 3.2.
+Primeramente se realiza una modulación 8-PSK, para este apartado se utiliza una simulación del sistema de comunicaciones como en la sección 3.2.
 Para ralizar la modulación 8-PSK fue necesario alterar algunas de las funciones dadas, entre ellas, al modulador se le tuvo que agregar dos portadoras, ya que este al igual que la modulación IQ utiliza dos.
 Se creó una variable llamada h la cual toma el valor de 0.707 y es de suma importancia en este tipo de modulación ya que esta funciona para realizar las formas de ondas y el estudio de las condiciones de los bits de este método de estudio utilizando for. Una vez terminado este proceso, se calcula la potencia promedio de la señal modulada.
 
