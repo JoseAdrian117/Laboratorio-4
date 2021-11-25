@@ -21,5 +21,5 @@ Se da la inicialización de matriz de valores de correlación para las N funcion
 
 ***Parte 4.3***
 
-Para la densdad espectral de potencia se hicieron algunas modificaciones a los códigos dados, entre ellas se agregó leyendas a los ejes y se le colocó un título a cada gráfica, de esta manera sabemos que en el eje x se encuentra la frecuencia en Hz, en el efe y está ubicada la densidad espectral de potencia.
+Para la densdad espectral de potencia se hicieron algunas modificaciones a los códigos dados, entre ellas se agregó leyendas a los ejes y se le colocó un título a cada gráfica, esto se hizo debido que nos ayuda a saber que en el eje x se encuentra la frecuencia en Hz, en el efe y está ubicada la densidad espectral de potencia.
 De esta manera se grafica la densidad espectral y se obtiene que la mayor densidad espectral de potencia se encuentra entre los 2500 Hz y los 7500 Hz.
